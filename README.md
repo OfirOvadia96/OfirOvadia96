@@ -1,16 +1,13 @@
-### Hi there 👋
+## welcome 👋
 
-<!--
-**OfirOvadia96/OfirOvadia96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h5>hi, i'm Ofir CS student 😄</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I love programming and solving difficult problems during my studies and in my free time,
+
+Here you can see projects I have worked on and are working on
+
+
+Fill free to contact me at:  ofirrr999@gmail.com 📫 || www.linkedin.com/in/ofir-ovadia 💬
+
