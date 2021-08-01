@@ -1,4 +1,4 @@
-## welcome 👋
+## Welcome 👋
 
 
 <h5>hi, i'm Ofir CS student 😄</h5>
