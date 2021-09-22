@@ -1,7 +1,7 @@
 ![welcome](https://user-images.githubusercontent.com/73709686/127783357-e09f847f-dea7-45b5-a80f-84ef5df66eb2.gif)
 
 
-<h3>hi 👋, i'm Ofir Computer Science and Mathematics student 😄</h3>
+<h3>Hi 👋, i'm Ofir Computer Science and Mathematics student 😄</h3>
 
 
 I love programming and solving difficult problems during my studies and in my free time,
