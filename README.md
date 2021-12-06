@@ -8,8 +8,11 @@ I love programming and solving difficult problems during my studies and in my fr
 
 Here you can see projects i'm working on and projects I have worked on
 
-
 💬 Feel free to contact me at:  ofirrr999@gmail.com 📫 ||  <a href="http://www.linkedin.com/in/ofir-ovadia" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git">
 
+
+
+
+<img align="left" alt="OfirOvadia96 Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirOvadia96&layout=compact&theme=onedark">
 
 
