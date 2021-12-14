@@ -12,7 +12,3 @@ Here you can see projects i'm working on and projects I have worked on
 
 
 
-
-<img align="left" alt="OfirOvadia96 Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirOvadia96&layout=compact&theme=onedark">
-
-
