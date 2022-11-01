@@ -6,10 +6,10 @@
 <h3 align="center">Hi 👋, i'm Ofir Computer Science and Mathematics student :smiley: </h3>
 
 <p align="center">
-currently work as part time Software engineer </p>
+Currently work as part time Software engineer </p>
 
 <p align="center">
-love programming and solving difficult problems during my studies and in my free time, </p>
+Love programming and solving difficult problems during my studies and in my free time, </p>
 
 <p align="center">
 Here you can see projects i'm working on and projects I have worked on
