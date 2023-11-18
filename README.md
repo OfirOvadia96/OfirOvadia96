@@ -5,8 +5,8 @@
 
 <h3 align="center">Hi 👋, i'm Ofir Computer Science and Mathematics graduated :smiley: </h3>
 
-<p align="center">
-Work as a software engineer </p>
+<h4 align="center">
+Work as a software engineer </h4>
 
 <p align="center">
 Love programming and solving difficult problems during my studies and in my free time, </p>
